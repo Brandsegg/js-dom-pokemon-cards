@@ -57,6 +57,7 @@ h2 {
   padding: 1rem;
 
   border-radius: 5px;
+  word-wrap: break-word;
 }
 
 .card--img {
